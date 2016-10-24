@@ -1,0 +1,23 @@
+{
+  "name": "cnsgalaxygroup",
+  "version": "1.0.0",
+  "description": "API group project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christin3/CNS-Galaxy-Group.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christin3/CNS-Galaxy-Group/issues"
+  },
+  "homepage": "https://github.com/christin3/CNS-Galaxy-Group#readme",
+  "dependencies": {
+    "firebase": "^3.4.0",
+    "yelp": "^1.0.1"
+  }
+}
